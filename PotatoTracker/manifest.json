@@ -29,7 +29,7 @@
   },
 
   "browser_action": {
-    "default_icon": "assets/CherryTree.png",
+    "default_icon": "assets/PotatoTree.png",
     "default_popup": "html/popup.html"
   },
 
